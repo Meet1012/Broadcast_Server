@@ -1,6 +1,7 @@
 # 🖥️ Chat Server and Client 🚀
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+
 A simple multi-client chat server built using **Python's socket and threading modules**. This project demonstrates how a server can handle multiple clients, broadcast messages, and enable real-time communication.  
 [Project Link](https://roadmap.sh/projects/broadcast-server)
 
